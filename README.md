@@ -1,3 +1,4 @@
+![Banner](Zellterics-Banner-Cropped.png)
 # ZellTerics
 C++ Enjoyer • Computer Graphics • Vulkan • Engine Dev, best enemy of [@Civer_mau](https://github.com/Civermau)
 getting into computer graphics using the Vulkan API on C++, I'm currently making a 2D engine to port and make new projects using graphics instead of console.
