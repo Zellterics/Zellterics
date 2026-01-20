@@ -6,8 +6,8 @@ I’ve been learning and working with **C++ for about 4 years**, mostly through 
 
 Most of my work has been focused on C++ console projects such as:
 - [Graphs](https://github.com/Zellterics/Graphs)
-- [Text Novel Engine](https://github.com/Zellterics/VirtualFileSystem-NMT-) 
-- [Virtual File System](https://github.com/Zellterics/TNGraphEngine) 
+- [Text Novel Engine](https://github.com/Zellterics/TNGraphEngine) 
+- [Virtual File System](https://github.com/Zellterics/VirtualFileSystem-NMT-) 
 
 I also have some experience with C# including projects like a [map loader](https://github.com/Zellterics/JustAnEpicTest) for a console base game.
 
@@ -26,15 +26,13 @@ I also have basic knowledge of **web development, JavaScript, and Python**, and 
 </div>
 
 # Current Project: [ThING Engine](https://github.com/Zellterics/ThING-Engine)
-ThING Engine is a 2D Graphics Engine made for custom projects focusing on performance and flexibility for my projects.
+ThING Engine is a 2D Graphics Engine made for custom projects focusing on performance and flexibility for my graph and data structure projects.
 
 **Features:**
 - Fast circle, polygon and line rendering.
-- Up to 30k.
-- Up to **~500k rendered circles**.
+- Up to 30k simulated circle.
+- Up to **~1 Million rendered circles/lines**.
 - Built with **Vulkan** and **ImGui**.
-
-The goal is to eventually make it **header-only or a static library**, once the architecture is fully polished.
 
 ### Contact Info
 zellterics@gmail.com, Discord (zellterics).
